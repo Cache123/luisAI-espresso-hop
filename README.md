@@ -1,3 +1,5 @@
+The Application will utilize the LuisAI services. Freatures will include state and the use of waterfall type conversation flow.
+
 Created from a cloned REPO: Using Instuctions below.
 
 This sample shows how to create a bot that uses Language Understanding (LUIS). This bot example uses [`restify`](https://www.npmjs.com/package/restify) and [`dotenv`](https://npmjs.com/package/dotenv). 
