@@ -1,0 +1,25 @@
+{
+    "name": "LuisBot",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "development",
+            "endpoint": "http://localhost:3978/api/messages",
+            "appId": "",
+            "appPassword": "",
+            "id": "1"
+        },
+        {
+            "type": "luis",
+            "name": "EspressoHop",
+            "appId": "c794f400-7aee-413c-895b-ff584e85507b",
+            "authoringKey": "2ab99f3fcf0a48e2b03cece5e2317438",
+            "subscriptionKey": "",
+            "version": "0.1",
+            "region": "westus",
+            "id": "34"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0"
+}
